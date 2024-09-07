@@ -8,8 +8,8 @@ This project is an interactive application that allows users to draw digits on a
 - Installation
 - Usage
 - Model
-- Contributing
 - License
+- Screenshots
   
 ## Introduction
 This project demonstrates the power of deep learning in recognizing handwritten digits, a key problem in the field of computer vision. Using the MNIST dataset, a CNN model has been trained to classify digits (0-9). The application allows users to draw digits on the screen and predicts the digit based on the drawing.
